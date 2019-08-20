@@ -1,0 +1,90 @@
+html {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: #E0E5D0;
+}
+
+p {
+    font-size: 16px;
+    line-height: 30px;
+}
+
+#blog {
+    margin: auto;
+    width: 1000px;
+    text-align: justify;
+    
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color: gray;
+    width: 200px;
+    border: 1px solid #555;
+}
+
+li a {
+    display: block;
+    color: #000;
+    text-decoration: none;
+    padding: 8px 16px;
+    font-size: 16px;
+    border-bottom: 1px solid #555;
+}
+
+li:last-child a {
+    border-bottom: none;
+}
+li a:hover {
+    background-color: #555;
+    color:white;
+}
+
+.active {
+    background-color: #617917;
+    color: white;
+}
+
+.asiancousine {
+    height: 500px;
+    width: 500px;
+    
+}
+
+h1, h3 {
+    
+    text-align: center;
+}
+
+figure {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+figcaption {
+    text-align: center;
+}
+
+.headshot {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height:450px;
+    width:338px;
+}
+
+figcaption {
+    font-size: 11px
+}
+
+h2 {
+    text-decoration: underline;
+}
+
+.diehard {
+    font-style: italic;
+    position: justify;
+}
