@@ -1,3 +1,3 @@
 #Cooking Website
 
-I'll be completely honest I don't know what one would use a readme file for on something that isn't an executable program.
+This was my first attempt at making a fully fleshed out website with an image gallery. 
